@@ -29,7 +29,7 @@ const Content = () => {
                     
                 </div>
                 <div className='col-span-1 p-5 border-2 rounded-lg'>
-                    Bye
+                    Second section on right
                 </div>
             </div>
         </section>
